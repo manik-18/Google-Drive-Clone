@@ -3,7 +3,7 @@ This is just a clone of google drive made using HTML and CSS which i learnt in a
 
 ## SCREENSHOTS:
 
-<img src="output.jpg" width="800" height="400">
+<img src="Gdrive_Clone/output.jpg" width="1000" height="500">
 
 ## SOFTWARE USED:
 VS CODE
